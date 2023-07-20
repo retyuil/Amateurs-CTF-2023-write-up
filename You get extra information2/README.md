@@ -5,7 +5,7 @@ This challenge is similar to the challenge you get extre information 1
 
 The output gives us the result of the following equation : $`n^2(p^3 + 5(p+1)^2) + 5nq + q^2`$
 
-We know that n = p*q so by replacing q by n/p we get an equation with get an equation where the only unknow is p.
+We know that n = p*q so by replacing q by n/p we get an equation where the only unknow is p.
 
 Unfortunately the equation is of degree 5 so we can't find exact solution to it. 
 But we know that p is an int so we just need to be close to the solution.
