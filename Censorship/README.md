@@ -45,6 +45,6 @@ With this we get the flag.
 Or we can just use the code : 
 
 ```
-d = {}; d["_"]
+d = {}; d[_]
 ```
 
